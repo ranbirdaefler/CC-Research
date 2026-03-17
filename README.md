@@ -1,4 +1,5 @@
-Analysis-PerDatasetModel.ipynb
+**Analysis-PerDatasetModel.ipynb**:
+
 A notebook for exploratory analysis of the MCF7 and HCC1806 SmartSeq datasets, followed by the development of two cell-line-specific predictive models. Each model is trained and optimized separately for its own dataset, so the hyperparameters are tuned specifically for MCF7 and HCC1806 predictions, respectively.
 
 Combined_CellLine_Model.ipynb
